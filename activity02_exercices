@@ -1,1 +1,3 @@
-
+def test():
+  print("that's a test")
+  return 0
